@@ -1,0 +1,439 @@
+https://pages.razorpay.com/pl_KJh1CJ59nlME49/view
+Excel Masterclass Lokesh Lalwani ORG H
+Excel from Scratch
+
+ 
+
+0101 Touring the interface
+
+0102 Enter data & saving workbook
+
+0103 Applying Formulas
+
+0104 Changing a worksheet's structure
+
+0105 Find, Replace & Spell Check
+
+0106 Applying fonts, background colors, and borders
+
+0107 Formatting numbers and dates
+
+0108 Making the pieces fit
+
+0109 Inserting headers & footers and Repeating Rows
+
+0109 Inserting headers & footers and Repeating Rows
+
+ 
+
+EXCEL ESSENTIALS
+
+ 
+
+0201 Formula Writing (Don't Miss This)
+
+Ex 0201 Formula Writing (Don't Miss This)
+
+ 
+
+SUMCOUNTAVERAGE FUNCTIONALITY (WITH CONDITIONS)
+
+ 
+
+0301 SumIf & SumIfs
+
+Ex 0303 SumIf & SumIfs
+
+0302 Count Functions
+
+Ex 0302 Count Functions
+
+0303 AverageIf & AverageIfs
+
+Ex 0303 AverageIf & AverageIfs
+
+ 
+
+TEXT FUNCTIONS (MANIPULATING TEXT)
+
+ 
+
+0401 Change Case (Upper, Lower, Proper)
+
+Ex 0401 Change Case (Upper, Lower, Proper)
+
+0402 Separating Text on Symmetrical Data
+
+Ex 0402 Separating Text on Symmetrical Data
+
+0403 Separating Text on Non-Symmetrical Data
+
+Ex 0403 Separating Text on Non-Symmetrical Data
+
+ 
+
+LOGICAL FUNCTIONS (WORKING WITH CONDITIONS)
+
+ 
+
+0501 If Functionality
+
+Ex 0501 IF Functionality
+
+0502 If with AND
+
+Ex 0502 If with AND
+
+0503 If with OR
+
+Ex 0503 If with OR
+
+0504 If with "AND" & "OR" / IF with Countif
+
+Ex 0504 If with "AND" & "OR" / IF with Countif
+
+0505 Nested IF (A Genie with 3 wishes)
+
+Ex 0505 Nested IF (A Genie with 3 wishes)
+
+ 
+
+LOOKUP FUNCTIONALITY (BURN SIMPLE FIND TECHNIQUE)
+
+ 
+
+0601 Vlookup (Exact Match) # 1
+
+Ex 0601 Vlookup (Exact Match) # 1
+
+0602 Type of References (Use of $ sign)
+
+Ex 0602 Type of References (Use of $ sign)
+
+0603 Vlookup (Exact Match) # 2
+
+Ex 0603 Vlookup (Exact Match) # 2
+
+0604 Double Vlookup
+
+Ex 0604 Double Vlookup
+
+0605 Vlookup on Duplicate Values
+
+Ex 0605 Vlookup on Duplicate Values
+
+0606 Vlookup (Approximate Match)
+
+Ex 0606 Vlookup (Approximate Match)
+
+0607 Vlookup with If (Conditional Vlookup)
+
+Ex 0607 Vlookup with If (Conditional Vlookup)
+
+0608 Hlookup (Exact Match)
+
+Ex 0608 Hlookup (Exact Match)
+
+0609 Hlookup (Approximate Match)
+
+Ex 0609 Hlookup (Approximate Match)
+
+0610 Lookup (Don’t use this !)
+
+Ex 0610 Lookup (Don’t use this !)
+
+0611 Vlookup with Match (Create Magical Vlookup)
+
+Ex 0611 Vlookup with Match (Create Magical Vlookup)
+
+0612 Match (Gives us Column/Row Index #)
+
+Ex 0612 Match (Gives us Column/Row Index #)
+
+0613 Index & Match (Made for Each Other)
+
+Ex 0613 (1) Index & Match (Made for Each Other)
+
+Ex 0613 (2) Index & Match (Made for Each Other)
+
+ 
+
+DATE & TIME FUNCTION (A TRICKY GAME)
+
+ 
+
+0701 How Excel Records Date & Time
+
+0702 Now, Today & Autofill
+
+0703 DateValue & TimeValue
+
+0704 Calculate WorkingDays
+
+0705 DatedIf
+
+ 
+
+FINANCIAL FUNCTIONS (USEFUL FOR NON- FINANCE GUYS TOO)
+
+ 
+
+0801 Loan Calculation (PMT, PPMT, IPMT etc.)
+
+Ex 0801 Loan Calculation (PMT, PPMT, IPMT etc.)
+
+0802 Creating a Loan Table
+
+Ex 0802 Creating a Loan Table
+
+0803 Calculate Depreciation
+
+Ex 0803 Calculate Depreciation
+
+SORT & FILTER (COMMON FOR ALL)
+
+ 
+
+0901 Basic Sorting & Shortcut keys
+
+Ex 0901 Basic Sorting & Shortcut keys
+
+0902 Sorting Using Custom List
+
+Ex0902 Sorting Using Custom List
+
+0903 Horizontal Sorting
+
+Ex 0903 Horizontal Sorting
+
+0904 Basic Filter & Shortcut Keys
+
+Ex 0904 Basic Filter & Shortcut Keys
+
+0905 Filter Problem # 1 (Copy Filtered Data without hidden rows)
+
+Ex 0905 Filter Problem # 1 (Copy Filtered Data without hidden rows)
+
+0906 Filter Problem # 2 (Pasting Values on Filtered Data)
+
+Ex 0906 Filter Problem # 2 (Pasting Values on Filtered Data)
+
+0907 Filter Problem # 3 (Performing Calculation on Filtered Data)
+
+Ex 0907 Filter Problem # 3 (Performing Calculation on Filtered Data)
+
+0908 Advanced Filter (Applying Complex Criteria's)
+
+Ex 0908 Advanced Filter (Applying Complex Criteria's)
+
+ 
+
+EXCEL CHARTS (ITS TIME FOR VISUAL PRESENTATION)
+
+ 
+
+Excel Charts Introduction
+
+How to Creat a Chart
+
+Link a Chart Title
+
+How to Show Axis Title
+
+How to Show Data Label
+
+Column Chart
+
+Bar Chart
+
+Line Chart 1
+
+Line Chart 2
+
+Area Chart
+
+Pie Chart
+
+Pie of Pie or Bar of Pie
+
+Line Chart with Log Scale
+
+Bubble Chart
+
+Selecting Chart Elements
+
+Use of Format Dialog box
+
+Modifying Chart & Plot Area
+
+Modifying Data Series
+
+How to handle Missing Data
+
+Modifying 3-D Charts
+
+Creating a Chart Templates
+
+Creating Picture Charts
+
+Creating Combination of upto 5 Different Charts
+
+Show data with chart in Data Table
+
+Play with Design & Layout of Chart
+
+ 
+
+DATA CONSOLIDATION (MULTIPLE WORKBOOKSWORKSHEETS)
+
+ 
+
+Consolidate Data using Excel Inbuilt Function
+
+Ex Consolidate Data using Excel Inbuilt Function
+
+ 
+
+DATA VALIDATION
+
+ 
+
+1201 Applying Data Validation
+
+Ex 1201 Applying Data Validation
+
+1202 Dependent Dropdown List
+
+Ex1202 Dependent Dropdown List
+
+1203 Using Data Validation with Vlookup & Match
+
+1204 Other Data Validation Examples
+
+ 
+
+PROTECTION OF WORKSHEETWORKBOOK
+
+ 
+
+1301 Worksheet Level Protection
+
+Ex 1301 Worksheet Level Protection
+
+1302 Cell Level Protection
+
+Ex 1302 Cell Level Protection
+
+1303 Hiding Formulas from Formula Bar
+
+Ex 1303 Hiding Formulas from Formula Bar
+
+1304 Protecting Workbook Structure
+
+Ex 1304 Protecting Workbook Structure
+
+1305 Workbook Level Protection
+
+Ex 1305 Workbook Level Protection
+
+ 
+
+PIVOT TABLE & TECHNIQUES
+
+ 
+
+1401 Understanding pivot Table
+
+1402 Using Pivot Table in Real Scenario
+
+Ex 1402 Using Pivot Table in Real Scenario
+
+1403 Grouping in Pivot Table
+
+Ex 1403 Grouping in Pivot Table
+
+1404 Using Slicers (A Visually attractive Filter)
+
+Ex 1404 Using Slicers (A Visually attractive Filter)
+
+ 
+
+WHAT-IF ANALYSIS & SOLVER ADD-IN
+
+ 
+
+1501 Goal Seek (A Reverse Approach)
+
+Ex 1501 Goal Seek (A Reverse Approach)
+
+1502 One Way Data Table
+
+1503 Two Way Data Table
+
+1504 Scenario Manager
+
+1505 Solver Add-In
+
+ 
+
+AUTOMATION IN EXCEL (MACROS)
+
+ 
+
+1601 Record your first Macro
+
+1602 Record Another Macro
+
+1603 Assigning macro to a Shape, Button, Picture etc
+
+1604 Editing or Deleting a Macro
+
+1605 Security Settings of a Macro
+
+ 
+
+ 
+
+ 
+
+New Video Tutorials
+
+ 
+
+How to create a Map Chart in Excel
+
+how to create a Map Chart in Excel
+
+ 
+
+New Chapter - Conditional Formatting
+
+ 
+
+Highlight cells rules
+
+Top Bottom Rules
+
+Data Bars
+
+Color Scales
+
+Icon Sets
+
+Function based Conditional Formatting
+
+ 
+
+Bonus Videos (In Hindi)
+
+ 
+
+Why my excel file size is huge and how to reduce Excel file size
+
+Problem of unwanted names when we create a copy of the sheet in Excel
+
+New chart types in Excel 2019/Office 365 || Map Chart || Funnel Chart
+
+How do you change the number format in Excel?
+
+6 Types of Errors in Excel and how to resolve them
